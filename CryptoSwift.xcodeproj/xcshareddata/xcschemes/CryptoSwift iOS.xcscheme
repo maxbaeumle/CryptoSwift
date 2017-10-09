@@ -16,7 +16,7 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "754BE45419693E190098E6F3"
                BuildableName = "CryptoSwift.framework"
-               BlueprintName = "CryptoSwift-iOS"
+               BlueprintName = "CryptoSwift iOS"
                ReferencedContainer = "container:CryptoSwift.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -47,7 +47,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "754BE45419693E190098E6F3"
             BuildableName = "CryptoSwift.framework"
-            BlueprintName = "CryptoSwift-iOS"
+            BlueprintName = "CryptoSwift iOS"
             ReferencedContainer = "container:CryptoSwift.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -70,7 +70,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "754BE45419693E190098E6F3"
             BuildableName = "CryptoSwift.framework"
-            BlueprintName = "CryptoSwift-iOS"
+            BlueprintName = "CryptoSwift iOS"
             ReferencedContainer = "container:CryptoSwift.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -88,7 +88,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "754BE45419693E190098E6F3"
             BuildableName = "CryptoSwift.framework"
-            BlueprintName = "CryptoSwift-iOS"
+            BlueprintName = "CryptoSwift iOS"
             ReferencedContainer = "container:CryptoSwift.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

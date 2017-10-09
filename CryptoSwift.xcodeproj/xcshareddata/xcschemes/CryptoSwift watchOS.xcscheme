@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "36F7129C1F8B765F00F60713"
-               BuildableName = "CryptoSwift-watchOS.framework"
-               BlueprintName = "CryptoSwift-watchOS"
+               BuildableName = "CryptoSwift watchOS.framework"
+               BlueprintName = "CryptoSwift watchOS"
                ReferencedContainer = "container:CryptoSwift.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -48,8 +48,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "36F7129C1F8B765F00F60713"
-            BuildableName = "CryptoSwift-watchOS.framework"
-            BlueprintName = "CryptoSwift-watchOS"
+            BuildableName = "CryptoSwift watchOS.framework"
+            BlueprintName = "CryptoSwift watchOS"
             ReferencedContainer = "container:CryptoSwift.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -66,8 +66,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "36F7129C1F8B765F00F60713"
-            BuildableName = "CryptoSwift-watchOS.framework"
-            BlueprintName = "CryptoSwift-watchOS"
+            BuildableName = "CryptoSwift watchOS.framework"
+            BlueprintName = "CryptoSwift watchOS"
             ReferencedContainer = "container:CryptoSwift.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

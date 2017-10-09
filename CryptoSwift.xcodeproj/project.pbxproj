@@ -224,7 +224,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		36F712E51F8B765F00F60713 /* CryptoSwift-watchOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = "CryptoSwift-watchOS.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		36F712E51F8B765F00F60713 /* CryptoSwift watchOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = "CryptoSwift watchOS.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		674A736E1BF5D85B00866C5B /* RabbitTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RabbitTests.swift; sourceTree = "<group>"; };
 		750509981F6BEF2A00394A1B /* PKCS7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PKCS7.swift; sourceTree = "<group>"; };
 		750CC3EA1DC0CACE0096BE6E /* BlowfishTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BlowfishTests.swift; sourceTree = "<group>"; };
@@ -358,7 +358,7 @@
 			children = (
 				754BE45519693E190098E6F3 /* CryptoSwift.framework */,
 				754BE46019693E190098E6F3 /* Tests.xctest */,
-				36F712E51F8B765F00F60713 /* CryptoSwift-watchOS.framework */,
+				36F712E51F8B765F00F60713 /* CryptoSwift watchOS.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -519,9 +519,9 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		36F7129C1F8B765F00F60713 /* CryptoSwift-watchOS */ = {
+		36F7129C1F8B765F00F60713 /* CryptoSwift watchOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 36F712E11F8B765F00F60713 /* Build configuration list for PBXNativeTarget "CryptoSwift-watchOS" */;
+			buildConfigurationList = 36F712E11F8B765F00F60713 /* Build configuration list for PBXNativeTarget "CryptoSwift watchOS" */;
 			buildPhases = (
 				36F7129D1F8B765F00F60713 /* Sources */,
 				36F712DC1F8B765F00F60713 /* Frameworks */,
@@ -533,14 +533,14 @@
 			);
 			dependencies = (
 			);
-			name = "CryptoSwift-watchOS";
+			name = "CryptoSwift watchOS";
 			productName = CryptoSwift;
-			productReference = 36F712E51F8B765F00F60713 /* CryptoSwift-watchOS.framework */;
+			productReference = 36F712E51F8B765F00F60713 /* CryptoSwift watchOS.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		754BE45419693E190098E6F3 /* CryptoSwift-iOS */ = {
+		754BE45419693E190098E6F3 /* CryptoSwift iOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 754BE46B19693E190098E6F3 /* Build configuration list for PBXNativeTarget "CryptoSwift-iOS" */;
+			buildConfigurationList = 754BE46B19693E190098E6F3 /* Build configuration list for PBXNativeTarget "CryptoSwift iOS" */;
 			buildPhases = (
 				754BE45019693E190098E6F3 /* Sources */,
 				754BE45119693E190098E6F3 /* Frameworks */,
@@ -552,7 +552,7 @@
 			);
 			dependencies = (
 			);
-			name = "CryptoSwift-iOS";
+			name = "CryptoSwift iOS";
 			productName = CryptoSwift;
 			productReference = 754BE45519693E190098E6F3 /* CryptoSwift.framework */;
 			productType = "com.apple.product-type.framework";
@@ -614,8 +614,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				754BE45419693E190098E6F3 /* CryptoSwift-iOS */,
-				36F7129C1F8B765F00F60713 /* CryptoSwift-watchOS */,
+				754BE45419693E190098E6F3 /* CryptoSwift iOS */,
+				36F7129C1F8B765F00F60713 /* CryptoSwift watchOS */,
 				754BE45F19693E190098E6F3 /* Tests */,
 			);
 		};
@@ -810,37 +810,37 @@
 /* Begin PBXTargetDependency section */
 		75B601E4197D69EB0009B53D /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 754BE45419693E190098E6F3 /* CryptoSwift-iOS */;
+			target = 754BE45419693E190098E6F3 /* CryptoSwift iOS */;
 			targetProxy = 75B601E3197D69EB0009B53D /* PBXContainerItemProxy */;
 		};
 		75B601E6197D6A270009B53D /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 754BE45419693E190098E6F3 /* CryptoSwift-iOS */;
+			target = 754BE45419693E190098E6F3 /* CryptoSwift iOS */;
 			targetProxy = 75B601E5197D6A270009B53D /* PBXContainerItemProxy */;
 		};
 		75B601E8197D6A3A0009B53D /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 754BE45419693E190098E6F3 /* CryptoSwift-iOS */;
+			target = 754BE45419693E190098E6F3 /* CryptoSwift iOS */;
 			targetProxy = 75B601E7197D6A3A0009B53D /* PBXContainerItemProxy */;
 		};
 		75B601EA197D6A5C0009B53D /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 754BE45419693E190098E6F3 /* CryptoSwift-iOS */;
+			target = 754BE45419693E190098E6F3 /* CryptoSwift iOS */;
 			targetProxy = 75B601E9197D6A5C0009B53D /* PBXContainerItemProxy */;
 		};
 		75B601ED197D6B3D0009B53D /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 754BE45419693E190098E6F3 /* CryptoSwift-iOS */;
+			target = 754BE45419693E190098E6F3 /* CryptoSwift iOS */;
 			targetProxy = 75B601EC197D6B3D0009B53D /* PBXContainerItemProxy */;
 		};
 		75B6021D197D6CF10009B53D /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 754BE45419693E190098E6F3 /* CryptoSwift-iOS */;
+			target = 754BE45419693E190098E6F3 /* CryptoSwift iOS */;
 			targetProxy = 75B6021C197D6CF10009B53D /* PBXContainerItemProxy */;
 		};
 		75B6021F197D6D070009B53D /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 754BE45419693E190098E6F3 /* CryptoSwift-iOS */;
+			target = 754BE45419693E190098E6F3 /* CryptoSwift iOS */;
 			targetProxy = 75B6021E197D6D070009B53D /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -1252,7 +1252,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		36F712E11F8B765F00F60713 /* Build configuration list for PBXNativeTarget "CryptoSwift-watchOS" */ = {
+		36F712E11F8B765F00F60713 /* Build configuration list for PBXNativeTarget "CryptoSwift watchOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				36F712E21F8B765F00F60713 /* Debug */,
@@ -1272,7 +1272,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		754BE46B19693E190098E6F3 /* Build configuration list for PBXNativeTarget "CryptoSwift-iOS" */ = {
+		754BE46B19693E190098E6F3 /* Build configuration list for PBXNativeTarget "CryptoSwift iOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				754BE46C19693E190098E6F3 /* Debug */,
