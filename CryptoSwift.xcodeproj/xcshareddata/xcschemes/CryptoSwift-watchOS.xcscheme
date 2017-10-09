@@ -14,48 +14,27 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "754BE45419693E190098E6F3"
-               BuildableName = "CryptoSwift.framework"
-               BlueprintName = "CryptoSwift"
+               BlueprintIdentifier = "36F7129C1F8B765F00F60713"
+               BuildableName = "CryptoSwift-watchOS.framework"
+               BlueprintName = "CryptoSwift-watchOS"
                ReferencedContainer = "container:CryptoSwift.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
    <TestAction
-      buildConfiguration = "Test"
+      buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
-      disableMainThreadChecker = "YES"
       language = ""
-      systemAttachmentLifetime = "keepNever"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "754BE45F19693E190098E6F3"
-               BuildableName = "Tests.xctest"
-               BlueprintName = "Tests"
-               ReferencedContainer = "container:CryptoSwift.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "754BE45419693E190098E6F3"
-            BuildableName = "CryptoSwift.framework"
-            BlueprintName = "CryptoSwift"
-            ReferencedContainer = "container:CryptoSwift.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
    <LaunchAction
-      buildConfiguration = "Release"
+      buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       language = ""
@@ -68,9 +47,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "754BE45419693E190098E6F3"
-            BuildableName = "CryptoSwift.framework"
-            BlueprintName = "CryptoSwift"
+            BlueprintIdentifier = "36F7129C1F8B765F00F60713"
+            BuildableName = "CryptoSwift-watchOS.framework"
+            BlueprintName = "CryptoSwift-watchOS"
             ReferencedContainer = "container:CryptoSwift.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -86,9 +65,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "754BE45419693E190098E6F3"
-            BuildableName = "CryptoSwift.framework"
-            BlueprintName = "CryptoSwift"
+            BlueprintIdentifier = "36F7129C1F8B765F00F60713"
+            BuildableName = "CryptoSwift-watchOS.framework"
+            BlueprintName = "CryptoSwift-watchOS"
             ReferencedContainer = "container:CryptoSwift.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
